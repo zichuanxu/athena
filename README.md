@@ -10,7 +10,7 @@
 
 ## Architecture
 
-![Athena](https://file+.vscode-resource.vscode-cdn.net/d%3A/Develop/WorkSpace/projects/athena/assets/1.jpg)
+![Athena](assets\1.jpg)
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
