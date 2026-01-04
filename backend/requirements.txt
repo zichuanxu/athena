@@ -1,0 +1,9 @@
+openai
+fastapi[all]
+pydantic
+requests
+tiktoken
+sqlalchemy
+asyncpg
+cachetools
+thefuzz

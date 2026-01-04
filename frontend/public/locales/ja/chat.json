@@ -1,0 +1,50 @@
+{
+  "errorMessage": "エラーが発生しました。もう一度お試しください。",
+  "header": {
+    "toggleSidebar": "サイドバーの切り替え",
+    "title": "Athena AI アシスタント",
+    "subtitle": "あなたの知的な学習パートナー",
+    "newChat": "新規チャット",
+    "home": "ホーム",
+    "homeTitle": "ホームに戻る"
+  },
+  "sidebar": {
+    "title": "最近の会話",
+    "empty": {
+      "message": "まだ会話がありません",
+      "prompt": "新しいチャットを開始してください"
+    },
+    "defaultTitle": "新しい会話",
+    "renameTitle": "チャット名を変更",
+    "deleteTitle": "チャットを削除"
+  },
+  "welcome": {
+    "title": "Athena AI へようこそ",
+    "message": "大学院入試の準備について何でも聞いてください。あなたの成功をサポートします！",
+    "suggestions": {
+      "topics": "主要な試験トピック",
+      "topicsPrompt": "大学院入試の主要なトピックは何ですか？",
+      "planning": "学習計画",
+      "planningPrompt": "学習スケジュールはどのように作成すればよいですか？",
+      "techniques": "学習テクニック",
+      "techniquesPrompt": "効果的な学習テクニックは？"
+    }
+  },
+  "input": {
+    "placeholder": "勉強について何でも聞いてください...",
+    "expand": "入力を展開",
+    "collapse": "入力を折りたたむ",
+    "send": "メッセージを送信"
+  },
+  "modals": {
+    "rename": {
+      "title": "チャット名を変更",
+      "label": "新しいチャット名",
+      "placeholder": "チャット名を入力してください"
+    },
+    "delete": {
+      "title": "チャットを削除",
+      "confirm": "このチャットを本当に削除しますか？この操作は元に戻せません。"
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "errors": {
+    "labelRequired": "ラベルは必須です",
+    "depthMin": "最大深度は1以上である必要があります",
+    "nodesMin": "最大ノード数は1以上である必要があります",
+    "fetchFailed": "グラフデータの取得に失敗しました",
+    "fetchFailedRetry": "グラフデータの取得に失敗しました。もう一度お試しください。"
+  },
+  "header": {
+    "title": "ナレッジグラフクエリ",
+    "subtitle": "概念間のつながりを発見する",
+    "backToHomeTitle": "ホームに戻る",
+    "homeButton": "ホーム",
+    "explorerTitle": "ナレッジグラフ・エクスプローラー",
+    "explorerSubtitle": "概念間のつながりを視覚化する"
+  },
+  "controls": {
+    "label": "ラベル",
+    "labelRequired": "ラベル *",
+    "labelPlaceholder": "概念ラベルを入力...",
+    "maxDepth": "最大深度",
+    "maxNodes": "最大ノード数",
+    "searchTitle": "グラフを検索",
+    "searchButton": "検索"
+  },
+  "placeholder": {
+    "title": "ナレッジグラフクエリ",
+    "description": "概念ラベルを入力して検索をクリックし、ナレッジグラフを探索します",
+    "explorerTitle": "ナレッジグラフ・エクスプローラー",
+    "explorerDescription": "概念ラベルを入力して検索し、グラフを視覚的に探索します"
+  },
+  "loading": {
+    "title": "ナレッジグラフを検索中...",
+    "description": "グラフデータを取得しています。しばらくお待ちください"
+  },
+  "results": {
+    "nodesTitle": "ノード ({{count}})",
+    "unknown": "不明",
+    "noDescription": "説明はありません",
+    "sourceLabel": "ソース:",
+    "relationshipsTitle": "関係 ({{count}})",
+    "weightLabel": "重み: {{weight}}",
+    "notAvailable": "N/A",
+    "keywordsLabel": "キーワード: {{keywords}}"
+  },
+  "stats": {
+    "nodes": "ノード",
+    "edges": "エッジ"
+  },
+  "graphControls": {
+    "zoomIn": "ズームイン",
+    "zoomOut": "ズームアウト",
+    "fitToScreen": "画面に合わせる",
+    "centerGraph": "グラフを中央に配置",
+    "toggleFullscreen": "フルスクリーン切り替え",
+    "showEdgeLabels": "エッジラベルを表示"
+  },
+  "nodeInfo": {
+    "title": "ノード情報",
+    "close": "閉じる",
+    "id": "ID",
+    "type": "タイプ",
+    "labels": "ラベル",
+    "description": "説明",
+    "properties": "プロパティ",
+    "emptyState": "ノードをクリックして情報を表示します"
+  }
+}

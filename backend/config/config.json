@@ -1,0 +1,5 @@
+{
+  "lightrag_url": "http://localhost:9621",
+  "database_url": "postgresql+asyncpg://postgres:postgres@localhost:5432/mm_enshu",
+  "max_context_tokens": 4096
+}

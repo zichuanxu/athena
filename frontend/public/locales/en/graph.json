@@ -1,0 +1,68 @@
+{
+  "errors": {
+    "labelRequired": "Label is required",
+    "depthMin": "Max depth must be at least 1",
+    "nodesMin": "Max nodes must be at least 1",
+    "fetchFailed": "Failed to fetch graph data",
+    "fetchFailedRetry": "Failed to fetch graph data. Please try again."
+  },
+  "header": {
+    "title": "Knowledge Graph Query",
+    "subtitle": "Discover connections between concepts",
+    "backToHomeTitle": "Back to Home",
+    "homeButton": "Home",
+    "explorerTitle": "Knowledge Graph Explorer",
+    "explorerSubtitle": "Visualize connections between concepts"
+  },
+  "controls": {
+    "label": "Label",
+    "labelRequired": "Label *",
+    "labelPlaceholder": "Enter concept label...",
+    "maxDepth": "Max Depth",
+    "maxNodes": "Max Nodes",
+    "searchTitle": "Search Graph",
+    "searchButton": "Search"
+  },
+  "placeholder": {
+    "title": "Knowledge Graph Query",
+    "description": "Enter a concept label and click search to explore the knowledge graph",
+    "explorerTitle": "Knowledge Graph Explorer",
+    "explorerDescription": "Enter a concept label and click search to explore the graph visually"
+  },
+  "loading": {
+    "title": "Searching Knowledge Graph...",
+    "description": "Please wait while we fetch the graph data"
+  },
+  "results": {
+    "nodesTitle": "Nodes ({{count}})",
+    "unknown": "Unknown",
+    "noDescription": "No description available",
+    "sourceLabel": "Source:",
+    "relationshipsTitle": "Relationships ({{count}})",
+    "weightLabel": "Weight: {{weight}}",
+    "notAvailable": "N/A",
+    "keywordsLabel": "Keywords: {{keywords}}"
+  },
+  "stats": {
+    "nodes": "Nodes",
+    "edges": "Edges"
+  },
+  "graphControls": {
+    "zoomIn": "Zoom In",
+    "zoomOut": "Zoom Out",
+    "fitToScreen": "Fit to Screen",
+    "centerGraph": "Center Graph",
+    "toggleFullscreen": "Toggle Fullscreen",
+    "showEdgeLabels": "Show Edge Labels"
+  },
+  "nodeInfo": {
+    "title": "Node Information",
+    "close": "Close",
+    "id": "ID",
+    "type": "Type",
+    "labels": "Labels",
+    "description": "Description",
+    "properties": "Properties",
+    "emptyState": "Click on a node to view its information"
+  }
+}

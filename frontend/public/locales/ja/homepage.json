@@ -1,0 +1,37 @@
+{
+  "brand_name": "Athena",
+  "title": "大学院入試をマスターしよう",
+  "subtitle": "知識グラフベースのAIの力を活用して、学習を加速させ、即座に答えを得て、私たちの包括的な学習プラットフォームで学術目標を達成しましょう。",
+  "questions_answered": "回答済み質問数",
+  "ai_support": "AIサポート",
+  "choose_learning_path": "学習パスを選択",
+  "select_tool_prompt": "私たちの強力なツールから選択して、学習体験を向上させましょう",
+  "ask_ai_title": "AIに質問",
+  "ask_ai_description": "高度なAIアシスタントで質問に即座に回答を得られます。試験対策や概念の明確化に最適です。",
+  "graph_query_title": "グラフクエリ",
+  "graph_query_description": "ラベルを使用して知識グラフを検索し、概念間の関連性を発見します。",
+  "graph_exploration_title": "グラフ探索",
+  "graph_exploration_description": "高度なグラフ視覚化システムを使用して、知識グラフを探索し、概念間の関連性を発見します。",
+  "footer": {
+    "description": "大学院入試のためのAI駆動型学習ソリューションで、学生を支援します。",
+    "features": {
+      "title": "機能",
+      "item1": "AIによるQ&A",
+      "item2": "グラフクエリ",
+      "item3": "グラフ探索"
+    },
+    "support": {
+      "title": "サポート",
+      "item1": "ヘルプセンター",
+      "item2": "ドキュメンテーション",
+      "item3": "お問い合わせ",
+      "item4": "コミュニティ"
+    },
+    "copyright": "© 2025 大阪大学 鬼塚研究室. All rights reserved."
+  },
+  "setting": {
+    "lightrag_url": "LightRAGのURL",
+    "database_url": "データベースのURL",
+    "max_context_tokens": "最大コンテキストトークン数"
+  }
+}

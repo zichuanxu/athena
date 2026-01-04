@@ -1,0 +1,50 @@
+{
+  "errorMessage": "Sorry, I encountered an error. Please try again.",
+  "header": {
+    "toggleSidebar": "Toggle Sidebar",
+    "title": "Athena AI Assistant",
+    "subtitle": "Your intelligent study companion",
+    "newChat": "New Chat",
+    "home": "Home",
+    "homeTitle": "Back to Home"
+  },
+  "sidebar": {
+    "title": "Recent Conversations",
+    "empty": {
+      "message": "No conversations yet",
+      "prompt": "Start a new chat to begin"
+    },
+    "defaultTitle": "New Conversation",
+    "renameTitle": "Rename Chat",
+    "deleteTitle": "Delete Chat"
+  },
+  "welcome": {
+    "title": "Welcome to Athena AI",
+    "message": "Ask me anything about your graduate school entrance exam preparation. I'm here to help you succeed!",
+    "suggestions": {
+      "topics": "Key exam topics",
+      "topicsPrompt": "What are the key topics for graduate entrance exams?",
+      "planning": "Study planning",
+      "planningPrompt": "How should I create a study schedule?",
+      "techniques": "Study techniques",
+      "techniquesPrompt": "What are effective study techniques?"
+    }
+  },
+  "input": {
+    "placeholder": "Ask me anything about your studies...",
+    "expand": "Expand input",
+    "collapse": "Collapse input",
+    "send": "Send Message"
+  },
+  "modals": {
+    "rename": {
+      "title": "Rename Chat",
+      "label": "New chat name",
+      "placeholder": "Enter chat name"
+    },
+    "delete": {
+      "title": "Delete Chat",
+      "confirm": "Are you sure you want to delete this chat? This action cannot be undone."
+    }
+  }
+}

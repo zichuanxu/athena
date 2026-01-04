@@ -1,0 +1,37 @@
+{
+  "brand_name": "Athena",
+  "title": "Master Your Graduate School Entrance Exams",
+  "subtitle": "Leverage the power of Knowledge Graph-based AI to accelerate your learning, get instant answers, and achieve your academic goals with our comprehensive study platform.",
+  "questions_answered": "Questions Answered",
+  "ai_support": "AI Support",
+  "choose_learning_path": "Choose Your Learning Path",
+  "select_tool_prompt": "Select from our powerful tools to enhance your study experience",
+  "ask_ai_title": "Ask AI",
+  "ask_ai_description": "Get instant answers to your questions with our advanced AI assistant. Perfect for exam preparation and concept clarification.",
+  "graph_query_title": "Graph Query",
+  "graph_query_description": "Search knowledge graphs and discover connections between concepts using labels.",
+  "graph_exploration_title": "Graph Exploration",
+  "graph_exploration_description": "Explore knowledge graphs and discover connections between concepts using our advanced graph visualization system.",
+  "footer": {
+    "description": "Empowering students with AI-driven learning solutions for graduate school entrance exams.",
+    "features": {
+      "title": "Features",
+      "item1": "AI-Powered Q&A",
+      "item2": "Graph Query",
+      "item3": "Graph Exploration"
+    },
+    "support": {
+      "title": "Support",
+      "item1": "Help Center",
+      "item2": "Documentation",
+      "item3": "Contact Us",
+      "item4": "Community"
+    },
+    "copyright": "© 2025 Onizuka Lab, Osaka University. All rights reserved."
+  },
+  "setting": {
+    "lightrag_url": "LightRAG URL",
+    "database_url": "Database URL",
+    "max_context_tokens": "Max Context Tokens"
+  }
+}
